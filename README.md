@@ -1,8 +1,10 @@
-# Project Title
+# GOOGLE COLABS
 
-Description of your project.
+Repository containing my colab projects.
 
-## Colab Notebook
-- [Link to Colab Notebook](Link to your Colab notebook)
+## Colab Noteboos
+### Simple GAN
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/wilwal23/google-colabs/blob/main/simple_gan.ipynb)
+[![Open in Medium](https://github.com/wilwal23/google-colabs/blob/main/tags/medium-badge.svg)](https://medium.com/the-research-nest/how-to-program-a-simple-gan-559ad707e201)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your_username/your_repository/blob/main/notebook_path.ipynb)
+
