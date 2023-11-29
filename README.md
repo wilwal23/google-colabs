@@ -7,4 +7,7 @@ Repository containing my colab projects.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/wilwal23/google-colabs/blob/main/simple_gan.ipynb)
 [![Open in Medium](https://github.com/wilwal23/google-colabs/blob/main/tags/medium-badge.svg)](https://medium.com/the-research-nest/how-to-program-a-simple-gan-559ad707e201)
 
+### Segmind for Image Generation 
+Light stable diffusion model with 1B parameters (<10GB GPU)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/wilwal23/google-colabs/blob/main/segmind-image-generation.ipynb)
 
